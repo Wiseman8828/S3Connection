@@ -12,6 +12,7 @@
   "dependencies": {
     "aws-sdk": "^2.1639.0",
     "cookie-parser": "^1.4.6",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "workerpool": "^9.2.0"
   }
 }
